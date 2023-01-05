@@ -1,0 +1,71 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+body  {
+  background: linear-gradient(
+    180deg,
+    #0f0c29 - 11.94%,
+    #302863,
+    51.92%,
+    #24243e 113.28%
+  );
+}
+
+p{
+ font-size: 20px ;
+ color:white ;
+ margin-top: 25px ;
+ text-align:center ;
+}
+
+h1{
+ font-size:34px  ;
+ font-weight: bold ;
+ text-align: center ;
+ margin-top :165px  ;
+ color:white;
+
+}
+
+input{
+ width: 342px ;
+ height: 74px ;
+ margin-bottom:16px ;
+ font-weight:500px  ;
+ font-size:17px  ;
+ padding-left:26px  ;
+ display:block ;
+ margin-right:aut ;
+ margin-left: auto;
+ outline: none ;
+}
+
+button{
+  display:block;
+  margin-left:auto  ;
+  margin-right: auto ;
+  background: black ;
+  width: 342px ;
+  height:74px  ;
+  border: none ;
+  color:white ;
+  font-size: 16px ;  
+  font-weight: bold ;
+  cursor:pointer ;
+
+}
+button:active{
+opacity:0.6 ;
+
+}
+
+a{
+  margin-top: 140px ; 
+  display: block;
+  text-align:center  ; 
+  font-size: 14px ;
+  color:white;
+
+
+}
